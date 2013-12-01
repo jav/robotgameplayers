@@ -52,3 +52,7 @@ run.py
 settings.py
 settings.pyc
 test
+
+
+#emacs
+*~
